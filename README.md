@@ -1,6 +1,6 @@
 # Unemployment Analysis with Python
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
+**Oasis Infobyte Internship Project** 
 
 ![MasterHead](https://assets.sentinelassam.com/h-upload/2023/05/29/459655-bigstock-unemployment-and-work-loss-pro-437340761.webp)
 
