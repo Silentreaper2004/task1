@@ -7,7 +7,7 @@
 <font size="1">Image Courtesy: https://assets.sentinelassam.com/h-upload/2023/05/29/459655-bigstock-unemployment-and-work-loss-pro-437340761.webp</font>
 
 Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1vbSeH3WXXvml83Gu432SWGo9cifZ7LQf?usp=sharing)
+- [Colab](https://colab.research.google.com/drive/19577Rtq4CoN9jVxJNccNbcLKxNtXVPGG#scrollTo=Y3lxredqlCYt)
 
 
 ---
